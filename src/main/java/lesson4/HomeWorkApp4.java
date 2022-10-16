@@ -1,4 +1,4 @@
-package lesson4;
+/*package lesson4;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -222,7 +222,7 @@ public class HomeWorkApp4 {
         }
         return false;
 
-        if (checkWin (DOT_HUMAN)) {
+       if (checkWin (DOT_HUMAN)) {
             if (symbol == DOT_HUMAN) {
                 System.out.println("Вы победили!");
             } else {
@@ -231,7 +231,7 @@ public class HomeWorkApp4 {
             return true;
         }
 
-        if (checkDraw()) {                        //проверка на ничью
+ /*       if (checkDraw()) {                        //проверка на ничью
             System.out.println("Ничья");
             return true;
         }
@@ -249,6 +249,4 @@ public class HomeWorkApp4 {
         return true;
     }
 }
-
-
-
+*/
